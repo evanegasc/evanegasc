@@ -1,4 +1,4 @@
-### Santa Clara University Student
+### I am a student at Santa Clara University in Santa Clara, California
 
 <!--
 **evanegasc/evanegasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
