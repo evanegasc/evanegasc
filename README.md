@@ -1,4 +1,4 @@
-### Hi there 👋
+### Santa Clara University Student
 
 <!--
 **evanegasc/evanegasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
